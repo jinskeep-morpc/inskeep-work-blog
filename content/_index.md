@@ -1,17 +1,8 @@
 ---
-title: My Site
+title: Welcome
 toc: false
 ---
 
-This is the landing page.
+Here are my notes and mussings regarding work and work-related things. 
 
-## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
