@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Blog
+      pageRef: /blog
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/jinskeep_morpc"
+      url: "https://github.com/jinskeep-morpc"
       weight: 3
     - name: Search
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/jinskeep_morpc/inskeep-work-blog"
+      url: "https://github.com/jinskeep-morpc/inskeep-work-blog"
       params:
         icon: github
 
@@ -45,3 +45,7 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: true
+
+  blog:
+    list:
+      pagerSize: 10
