@@ -49,3 +49,7 @@ params:
   blog:
     list:
       pagerSize: 10
+      displayTags: true
+  
+  toc:
+    displayTags: true
