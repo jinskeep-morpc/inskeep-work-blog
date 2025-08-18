@@ -12,7 +12,6 @@ Hosted by CURA. Virtual.
 
 <!--more-->
 
-# Public Data for Public Good
 
 ## Introduction: Joy Bongaguro
 
