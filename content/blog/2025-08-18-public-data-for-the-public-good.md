@@ -22,13 +22,6 @@ Hosted by CURA. Virtual.
 ## Seeking the Data-Driven Organization
 
 ## Introduction
-<details>
-<summary>Raw Notes</summary>
-- Evacuation of New Orleans before Hurricane
-- Put out an elevation map of New Orleans
-- USGS elevation data, Metadata was missing
-- Wrong guess in units
-</details>
 
 Joy discussed a situation in which she created a map of elevations in New Orleans preceding the potential landfall of a hurricane (potentially Katrina, unclear). She mentioned that the levies broke and that her map quickly became viral over social media and then was shared internationally be at least one organizations. 
 
