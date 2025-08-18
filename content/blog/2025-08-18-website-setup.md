@@ -1,8 +1,8 @@
 ---
 title: Website Setup
 date: 2025-08-18
-tags: 
-    - setup 
+tags:
+    - setup
     - website
     - blog
 ---
