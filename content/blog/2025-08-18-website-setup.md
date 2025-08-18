@@ -9,6 +9,10 @@ tags:
 
 # Setting up this website.  
 
+When starting this website, I needed to decide on a static site generator to serve the site to github pages. 
+
+<!--more-->
+
 ## Choosing a Static Site Generator.  
 
 - jekyll  
