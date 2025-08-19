@@ -23,7 +23,7 @@ Their definition:
 
 ## Data Engineering Lifecycle
 
-![The data engineering lifecycle as presented in the book.](../assets/data-engineering-lifecycle.jpeg)
+![The data engineering lifecycle as presented in the book.](/img/data-engineering-lifecycle.jpeg)
 
 ## The History of Data Engineering
 
@@ -31,7 +31,7 @@ They document a history which moved through Big Data into the modern data archit
 
 ## The Relationship between DE, DS, and DA
 
-![Data Hierarchy of Need](../assets/data-hierarchy-of-needs.jpeg)
+![Data Hierarchy of Need](/img/data-hierarchy-of-needs.jpeg)
 
 [SOURCE](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 
