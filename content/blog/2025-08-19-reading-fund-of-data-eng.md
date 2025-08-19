@@ -188,17 +188,77 @@ DEs interface with both internal and external data users, and need to consider t
 
 > The data engineer is a hub between **data producers**, such as software engineers, data
 > architects, and DevOps or site-reliability engineers (SREs), and **data consumers**, such
-> as data analysts, data scientists, and ML engineers.
+> as data analysts, data scientists, and ML engineers. 
 
 #### Upstream Data Stakeholders
 
-Data architects
+**Data architects**
 
-Software engineers
+> Data architects design the blueprint for organizational data
+> management, mapping out processes and overall data architecture and systems. 
+> They also serve as a bridge between an organization’s technical and nontechnical sides. 
+> Successful data architects generally have “battle scars” from extensive engineering 
+> experience, allowing them to guide and assist engineers while successfully communicating
+> engineering challenges to nontechnical business stakeholders.'
 
-DevOps
+The role of the data architect is to design and implement a data ecosystem with the help of data engineers. 
 
+**Software Engineers**
 
+> Software engineers build the software and systems that run a
+> business; they are largely responsible for generating the internal data that data engi‐
+> neers will consume and process.
+
+> A data engineer should work together with software engineers to understand the
+> applications that generate data, the volume, frequency, and format of the generated
+> data, and anything else that will impact the data engineering lifecycle, such as data
+> security and regulatory compliance.
+
+In situations where there is little to know custom software, this won't be as significant. In both situations, a single person may plan all these roles in some sense. 
+
+**DevOps**
+
+> DevOps and SREs often produce data through operational monitoring.
 
 #### Downstream Data Stakeholders
+
+These are the data users and use cases. 
+
+**Data Scientist**
+
+>  If data engineers do their job and collaborate successfully, data scientists
+> shouldn’t spend their time collecting, cleaning, and preparing data after initial explor‐
+> atory work. Data engineers should automate this work as much as possible.
+
+It is this pressure to do good data science that gave birth to data engineering. In order for scientists to be effective it requires they
+have the foundation and tools to excel.
+
+Good data engineering also requires that engineers work iteratively with scientists to facilitate exploration and discovery. 
+
+Data scientist are doing science. They should be running tests and experiments. 
+
+> [!NOTE]
+> I appreciate the points in which the art and creativity of data work comes through in this book. There really is 
+> a sense that when we get these things right we can start to really work well as a team, and also begin to ask more
+> interesting questions and tell more compelling stories, hopefully really making change.
+
+**Data Analyst**
+
+> Data analysts’ subject-matter expertise is invaluable in
+> improving data quality, and they frequently collaborate with data engineers in this
+> capacity.
+
+Analyst dig deep into data, often focused on a particular domain or subject matter. They may be using data to derive insights into what happened and various alternatives. 
+
+It is important that engineers take the understanding and expertise of the analyst into consideration as they design the data system.
+
+**Modellers and ML and AI Engineers**
+
+The scope of this work is rapidly changing, but ML and AI models need to be trained on clean and robust data and lots of it. There are specifics that apply only
+to the development of AI tools, but by and large the data maturity that is required for AI should also benefit other forms of data science. 
+
+### Working with Business Leadership
+
+
+
 
