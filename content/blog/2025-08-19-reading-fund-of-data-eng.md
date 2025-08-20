@@ -1,5 +1,5 @@
 ---
-title: Reading Fundamentals of Data Engineering
+title: Reading Fundamentals of Data Engineering, Chapter 1
 date: 2025-08-19
 tags:
     - data-engineering
@@ -7,7 +7,6 @@ tags:
     - books
 ---
 
-# Chapter 1
 
 ## Defining Data Engineering
 
@@ -259,6 +258,26 @@ to the development of AI tools, but by and large the data maturity that is requi
 
 ### Working with Business Leadership
 
+
+**CEO**
+
+Vision Setter. DE will share what is possible with the data available and potential new data.
+
+**CIO**
+
+Internal-facing IT executive. Establish major tech initiatives, CIOs often establish data culture.
+
+**CTO**
+
+External-facing IT executive. Apps, web, IoT. May also act as the CIO. DE may report directly to the CTO.
+
+**CDO**
+
+Oversees data products, strategy, initiatives, and core functions. Sometimes will manage business analytics and data engineering.
+
+**CAO**
+
+Variant of CDO focused on analytics and data science. 
 
 
 
